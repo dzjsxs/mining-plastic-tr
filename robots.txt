@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mining-plastic-tr.pages.dev/sitemap.xml
